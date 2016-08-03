@@ -13,7 +13,8 @@
 		you might want to deploy in Azure.
 
 		***You'll want to parameterize this script and fully deploy a VM from image
-		using this script.***
+		using this script. Until then, change the variable below manually as necessary
+		to return the desired result.***
 #>
 Login-AzureRmAccount
 
